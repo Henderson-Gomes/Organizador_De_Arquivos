@@ -1,0 +1,2 @@
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\win-x64\ManipulcaoDeArquivo.pdb
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\win-x64\ManipulcaoDeArquivo.exe

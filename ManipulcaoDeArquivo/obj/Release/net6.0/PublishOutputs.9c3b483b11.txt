@@ -1,0 +1,5 @@
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\ManipulcaoDeArquivo.exe
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\ManipulcaoDeArquivo.dll
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\ManipulcaoDeArquivo.deps.json
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\ManipulcaoDeArquivo.runtimeconfig.json
+C:\Users\hende\OneDrive\Documentos\Sistema de Gerenciamento PETSHOP\ManipulcaoDeArquivo\ManipulcaoDeArquivo\bin\Release\net6.0\publish\ManipulcaoDeArquivo.pdb

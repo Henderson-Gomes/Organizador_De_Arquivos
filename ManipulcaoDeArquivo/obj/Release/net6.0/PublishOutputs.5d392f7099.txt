@@ -1,0 +1,5 @@
+C:\Users\hende\OneDrive\Documentos\Organizador de arquivo\ManipulcaoDeArquivo.exe
+C:\Users\hende\OneDrive\Documentos\Organizador de arquivo\ManipulcaoDeArquivo.dll
+C:\Users\hende\OneDrive\Documentos\Organizador de arquivo\ManipulcaoDeArquivo.deps.json
+C:\Users\hende\OneDrive\Documentos\Organizador de arquivo\ManipulcaoDeArquivo.runtimeconfig.json
+C:\Users\hende\OneDrive\Documentos\Organizador de arquivo\ManipulcaoDeArquivo.pdb
